@@ -1,5 +1,4 @@
 # Kerbous_hayat-Openclassrooms-p9-Pr-disez-la-demande-en-lectricit-
-Prédisez la demande en électricité
-A partir d’observations passées, vous prédirez la demande en électricité dans un réseau de distribution. Pour cela vous utiliserez les modélisations de séries temporelles.
+Prédir la demande en électricité à partir d’observations passées,prédir la demande en électricité dans un réseau de distribution. Pour cela j'utilise les modélisations de séries temporelles.
 
 
